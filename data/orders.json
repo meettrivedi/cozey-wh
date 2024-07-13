@@ -1,0 +1,64 @@
+{
+    "orders": [
+        {
+            "odrder_id": 1,
+            "order_total": 100,
+            "order_date": "2024-07-12",
+            "shipping_address": "123 Main St, Anytown, USA",
+            "customer_name": "John Doe",
+            "customer_email": "john@doe.com",
+            "line_items" :[
+                {
+                    "line_item_id": 1,
+                    "product_id": "valentines_box",
+                    "product_name": "Valentine's Box",
+                    "price": 100
+                }
+            ]
+        },
+        {
+            "odrder_id": 2,
+            "order_total": 50,
+            "order_date": "2021-03-14",
+            "shipping_address": "456 Elm St, Anytown, USA",
+            "customer_name": "Jane Doe",
+            "customer_email": "jane@doe.com",
+            "line_items" : [
+                {
+                    "line_item_id": 2,
+                    "product_id": "birthday_box",
+                    "product_name": "Birthday Box",
+                    "price": 50
+                }
+            ]
+        },
+        {
+            "order_id": 3,
+            "order_total": 150,
+            "order_date": "2024-07-12",
+            "shipping_address": "789 Oak St, Anytown, USA",
+            "customer_name": "Jim Doe",
+            "customer_email": "jim@doe.com",
+            "line_items" : [
+                {
+                    "line_item_id": 3,
+                    "product_id": "client_gift_box",
+                    "product_name": "Client Gift Box",
+                    "price": 150
+                },
+                {
+                    "line_item_id": 4,
+                    "product_id": "birthday_box",
+                    "product_name": "Birthday Box",
+                    "price": 50
+                },
+                {
+                    "line_item_id": 5,
+                    "product_id": "anniversary_box",
+                    "product_name": "Anniversary Box",
+                    "price": 200
+                }
+            ]
+        }
+    ]
+}

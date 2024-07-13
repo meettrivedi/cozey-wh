@@ -1,0 +1,42 @@
+{
+    "valentines_box": {
+        "name": "Valentine's Box",
+        "price": 100,
+        "items": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    "birthday_box": {
+        "name": "Birthday Box",
+        "price": 50,
+        "items": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    "client_gift_box": {
+        "name": "Client Gift Box",
+        "price": 150,
+        "items": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ]
+    },
+    "anniversary_box": {
+        "name": "Anniversary Box",
+        "price": 200,
+        "items": [
+            "2",
+            "3",
+            "10",
+            "11"
+        ]
+    }
+}
